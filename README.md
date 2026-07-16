@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/bhumika-0711/Coding/tree/master/0013-roman-to-integer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bhumika-0711/Coding/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/bhumika-0711/Coding/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/bhumika-0711/Coding/tree/master/0242-valid-anagram) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/bhumika-0711/Coding/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/bhumika-0711/Coding/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/bhumika-0711/Coding/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/bhumika-0711/Coding/tree/master/0796-rotate-string) |
@@ -34,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bhumika-0711/Coding/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/bhumika-0711/Coding/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
