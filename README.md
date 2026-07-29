@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/bhumika-0711/Coding/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/bhumika-0711/Coding/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/bhumika-0711/Coding/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/bhumika-0711/Coding/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/bhumika-0711/Coding/tree/master/0387-first-unique-character-in-a-string) |
 ## Linked List
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/bhumika-0711/Coding/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/bhumika-0711/Coding/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/bhumika-0711/Coding/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhumika-0711/Coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String Matching
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/bhumika-0711/Coding/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/bhumika-0711/Coding/tree/master/0085-maximal-rectangle) |
 | [0169-majority-element](https://github.com/bhumika-0711/Coding/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/bhumika-0711/Coding/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhumika-0711/Coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/bhumika-0711/Coding/tree/master/2104-sum-of-subarray-ranges) |
 ## Dynamic Programming
@@ -83,18 +86,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/bhumika-0711/Coding/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhumika-0711/Coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/bhumika-0711/Coding/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/bhumika-0711/Coding/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/bhumika-0711/Coding/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/bhumika-0711/Coding/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/bhumika-0711/Coding/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/bhumika-0711/Coding/tree/master/0387-first-unique-character-in-a-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/bhumika-0711/Coding/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/bhumika-0711/Coding/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
