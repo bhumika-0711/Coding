@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/bhumika-0711/Coding/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/bhumika-0711/Coding/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/bhumika-0711/Coding/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/bhumika-0711/Coding/tree/master/0451-sort-characters-by-frequency) |
 ## Linked List
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/bhumika-0711/Coding/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/bhumika-0711/Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/bhumika-0711/Coding/tree/master/0402-remove-k-digits) |
+| [0451-sort-characters-by-frequency](https://github.com/bhumika-0711/Coding/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/bhumika-0711/Coding/tree/master/0796-rotate-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bhumika-0711/Coding/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sorting
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/bhumika-0711/Coding/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/bhumika-0711/Coding/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/bhumika-0711/Coding/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/bhumika-0711/Coding/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhumika-0711/Coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String Matching
 |  |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/bhumika-0711/Coding/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/bhumika-0711/Coding/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhumika-0711/Coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -103,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/bhumika-0711/Coding/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/bhumika-0711/Coding/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/bhumika-0711/Coding/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/bhumika-0711/Coding/tree/master/0451-sort-characters-by-frequency) |
 ## Queue
 |  |
 | ------- |
@@ -111,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/bhumika-0711/Coding/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/bhumika-0711/Coding/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
 |  |
 | ------- |
