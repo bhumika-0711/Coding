@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/bhumika-0711/Coding/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/bhumika-0711/Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/bhumika-0711/Coding/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/bhumika-0711/Coding/tree/master/0560-subarray-sum-equals-k) |
 | [3731-find-missing-elements](https://github.com/bhumika-0711/Coding/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/bhumika-0711/Coding/tree/master/0085-maximal-rectangle) |
 | [0169-majority-element](https://github.com/bhumika-0711/Coding/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/bhumika-0711/Coding/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/bhumika-0711/Coding/tree/master/0560-subarray-sum-equals-k) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhumika-0711/Coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/bhumika-0711/Coding/tree/master/2104-sum-of-subarray-ranges) |
 | [3731-find-missing-elements](https://github.com/bhumika-0711/Coding/tree/master/3731-find-missing-elements) |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bhumika-0711/Coding/tree/master/3345-smallest-divisible-digit-product-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/bhumika-0711/Coding/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
