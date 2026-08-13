@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/bhumika-0711/Coding/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/bhumika-0711/Coding/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/bhumika-0711/Coding/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/bhumika-0711/Coding/tree/master/0049-group-anagrams) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/bhumika-0711/Coding/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/bhumika-0711/Coding/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bhumika-0711/Coding/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/bhumika-0711/Coding/tree/master/0085-maximal-rectangle) |
