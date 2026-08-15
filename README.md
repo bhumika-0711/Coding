@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/bhumika-0711/Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/bhumika-0711/Coding/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/bhumika-0711/Coding/tree/master/0560-subarray-sum-equals-k) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/bhumika-0711/Coding/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3731-find-missing-elements](https://github.com/bhumika-0711/Coding/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/bhumika-0711/Coding/tree/master/0160-intersection-of-two-linked-lists) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/bhumika-0711/Coding/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## String
 |  |
 | ------- |
@@ -143,17 +145,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/bhumika-0711/Coding/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/bhumika-0711/Coding/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/bhumika-0711/Coding/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/bhumika-0711/Coding/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/bhumika-0711/Coding/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/bhumika-0711/Coding/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/bhumika-0711/Coding/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/bhumika-0711/Coding/tree/master/0938-range-sum-of-bst) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/bhumika-0711/Coding/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
