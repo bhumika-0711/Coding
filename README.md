@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhumika-0711/Coding/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/bhumika-0711/Coding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/bhumika-0711/Coding/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bhumika-0711/Coding/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/bhumika-0711/Coding/tree/master/0085-maximal-rectangle) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/bhumika-0711/Coding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhumika-0711/Coding/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/bhumika-0711/Coding/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
