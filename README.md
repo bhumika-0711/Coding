@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/bhumika-0711/Coding/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/bhumika-0711/Coding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/bhumika-0711/Coding/tree/master/0049-group-anagrams) |
+| [0063-unique-paths-ii](https://github.com/bhumika-0711/Coding/tree/master/0063-unique-paths-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bhumika-0711/Coding/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/bhumika-0711/Coding/tree/master/0085-maximal-rectangle) |
 | [0169-majority-element](https://github.com/bhumika-0711/Coding/tree/master/0169-majority-element) |
@@ -101,10 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/bhumika-0711/Coding/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/bhumika-0711/Coding/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/bhumika-0711/Coding/tree/master/0085-maximal-rectangle) |
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/bhumika-0711/Coding/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/bhumika-0711/Coding/tree/master/0085-maximal-rectangle) |
 ## Heap (Priority Queue)
 |  |
