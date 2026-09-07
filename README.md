@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/bhumika-0711/Coding/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/bhumika-0711/Coding/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/bhumika-0711/Coding/tree/master/0062-unique-paths) |
 | [0166-fraction-to-recurring-decimal](https://github.com/bhumika-0711/Coding/tree/master/0166-fraction-to-recurring-decimal) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bhumika-0711/Coding/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Greedy
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/bhumika-0711/Coding/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/bhumika-0711/Coding/tree/master/0085-maximal-rectangle) |
 ## Matrix
 |  |
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhumika-0711/Coding/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/bhumika-0711/Coding/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
