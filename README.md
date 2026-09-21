@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/bhumika-0711/Coding/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/bhumika-0711/Coding/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/bhumika-0711/Coding/tree/master/0796-rotate-string) |
+| [1143-longest-common-subsequence](https://github.com/bhumika-0711/Coding/tree/master/1143-longest-common-subsequence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bhumika-0711/Coding/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sorting
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/bhumika-0711/Coding/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/bhumika-0711/Coding/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/bhumika-0711/Coding/tree/master/0085-maximal-rectangle) |
+| [1143-longest-common-subsequence](https://github.com/bhumika-0711/Coding/tree/master/1143-longest-common-subsequence) |
 ## Matrix
 |  |
 | ------- |
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/bhumika-0711/Coding/tree/master/0062-unique-paths) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/bhumika-0711/Coding/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
