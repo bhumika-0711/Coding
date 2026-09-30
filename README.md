@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/bhumika-0711/Coding/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/bhumika-0711/Coding/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/bhumika-0711/Coding/tree/master/0796-rotate-string) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/bhumika-0711/Coding/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/bhumika-0711/Coding/tree/master/1143-longest-common-subsequence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bhumika-0711/Coding/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sorting
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/bhumika-0711/Coding/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/bhumika-0711/Coding/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/bhumika-0711/Coding/tree/master/0402-remove-k-digits) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/bhumika-0711/Coding/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bhumika-0711/Coding/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/bhumika-0711/Coding/tree/master/2104-sum-of-subarray-ranges) |
 ## Math
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/bhumika-0711/Coding/tree/master/1143-longest-common-subsequence) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/bhumika-0711/Coding/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
